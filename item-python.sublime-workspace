@@ -1,0 +1,721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"POS",
+				"pos-r	position: relative;"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"fi",
+				"first	.first()"
+			],
+			[
+				"f",
+				"first	.first()"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"let",
+				"left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "1.寻找自己的方式/猜数字游戏1.1.py",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"isp",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/learn/item-python-升入浅出程序设计",
+		"/D/learn/item-python-升入浅出程序设计/1.寻找自己的方式"
+	],
+	"file_history":
+	[
+		"/D/learn/item-python-升入浅出程序设计/1.寻找自己的方式/猜数字游戏.py",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/JSON.sublime-settings",
+		"/D/learn/item-python-升入浅出程序设计/demo.js",
+		"/D/Work Software/Sublime Text 3/Data/Packages/Anaconda/Anaconda.sublime-settings",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/Anaconda.sublime-settings",
+		"/D/Work Software/Sublime Text 3/Data/Packages/Anaconda/README.md",
+		"/D/learn/item-python-升入浅出程序设计/c.css",
+		"/D/Work Software/Sublime Text 3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Work Software/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/Python.sublime-settings",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/SublimeREPL.sublime-settings",
+		"/D/Work Software/Sublime Text 3/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/learn/javascript.html",
+		"/D/Desktop/ServiceOutlets.cshtml",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/客户管理/表单-健康档案-pdf2.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/css/u.css",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/工作管理/工作管理-任务查询.html",
+		"/D/Work/健康宣教/健康宣教-16.04.14_3/健康宣教/weibo--左右分列.html",
+		"/D/Desktop/健康档案-pdf输出/表单-健康档案-pdf2.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/css/c.css",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/客户中心/iframe-干预随访2.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/less/c.less",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/less/mixins/m-u.less",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/less/u.less",
+		"/D/Work/item_shangyi--pc/shangyi--pc-11.27/短信通讯录/SendSMSMessage--慢病.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/健康管理师/健康服务统计表.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/page-demo/图表数据.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/客户管理/客户咨询-列表.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/个性化需求记录/个性化需求记录-专科专家推荐.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/page-demo/客户咨询表.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/page-demo/c-tab-group.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/page-demo/c-form-group.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/信息管理/信息展示页-c-info-group.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/公众信息发布/公众信息发布-信息管理.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/客户中心/iframe-干预随访2.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/客户管理/客户管理-干预随访2.html",
+		"/D/Desktop/contact.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/page-demo/c-table-group.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/page-demo/iframe-干预随访.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/短信通讯录/SendSMSMessage.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/index/首页（改）2.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/index/首页（改）.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/less/u.less",
+		"/D/Work/item_shangyi--pc/shangyi--pc/表单种类/forms_four.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/表单种类/formGroup-会诊日志.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/表单种类/input-group.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/客户管理/iframe-干预随访2.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/客户管理/客户投诉表.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/表单种类/form-group.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/less/c.less",
+		"/D/Work/item_shangyi--pc/shangyi--pc/客户管理/客户管理-干预随访.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/developer/bootstrap/css/bootstrap.css",
+		"/D/Work/item_shangyi--pc/shangyi--pc/客户管理/干预随访.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/健康管理师/健康服务管理.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/page-demo/体检档案--列表--移动端.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/page-demo/个人健康档案--移动端.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/健康宣教/文章内容.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/健康宣教/weibo.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/表单种类/checkbox-table.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/个性化需求记录/个性化需求记录-中医体质评估-问卷.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/客户管理/客户分级管理-预警监测（改）.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/个性化需求记录/个性化需求记录-中医体质评估.html",
+		"/D/Work/item_shangyi--pc/shangyi--pc/注册&登录/login--健康宣教.html",
+		"/D/Desktop/bootstrap-3.3.5-dist/css/bootstrap.css",
+		"/D/Work/item_shangyi--pc/shangyi--pc/css/u.css",
+		"/D/Desktop/简单登录/page-demo/login--简单版本.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.11/less/u.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.11/developer/bootstrap/css/bootstrap.css",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.11/less/c.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.11/page-demo/login--简单版本.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.11/page-demo/体检档案--列表--移动端.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.11/page-demo/移动端表格.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.11/less/mixins/m-u.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.11/page-demo/客户咨询表.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.06.04/page-demo/图表数据.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/page-demo/客户资料--OA嵌入页.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/客户资料--嵌入页.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/page-demo/u-help-class--moreData.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/page-demo/iframe-table--个人健康档案.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/css/u.css",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/js/main.js",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/css/l.css",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/less/l.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/less/i-ColorWidth.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--导航去掉css3-02.03/less/l.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/less/mixins/m-u.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/less/c.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/page-demo/c-tab-group.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--导航去掉css3-02.03/page-demo/c-form-group.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--导航去掉css3-02.03/page-demo/login.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--导航去掉css3-02.03/less/p-doctor-group.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--导航去掉css3-02.03/doctor-group/doctor-group-alert.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--导航去掉css3-02.03/doctor-group/doctor-查询病人病史--iframe-wrap.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--导航去掉css3-02.03/page-demo/iframe-table--个人健康档案.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/page-demo/c-form-group.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/less/login.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/js/addDel.js",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/doctor-group/doctor-查询病人病史--iframe.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/doctor-group/doctor-查询病人病史--iframe-wrap.html",
+		"/D/Work/less-group--greenBlack-01.08/doctor-group/doctor-group-alert.html",
+		"/D/Work/less-group--greenBlack-01.08/less/p-index.less",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/iframe-table-col-2.html",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/iframe-table.html",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/iframe-客户套餐设置.html",
+		"/D/Work/less-group--greenBlack-01.08/js/main.js",
+		"/D/Work/less-group--greenBlack-01.08/less/u.less",
+		"/D/Work/less-group--greenBlack-01.08/less/c.less",
+		"/D/Work/less-group--greenBlack-01.08/less/p-doctor-group.less",
+		"/D/Work/less-group--greenBlack-01.08/doctor-group/bootstrap-switch.html",
+		"/D/Work/less-group--greenBlack-01.08/doctor-group/doctor-查询病人病史.html",
+		"/D/Work/less-group--greenBlack-01.08/js/addDel.js",
+		"/D/Work/less-group--greenBlack-01.08/资源/bootstrap-switch-master/docs/css/main.css",
+		"/D/Work/less-group--greenBlack-01.08/资源/bootstrap-switch-master/docs/css/highlight.css",
+		"/D/Work/less-group--greenBlack-01.08/less/l.less",
+		"/D/Work/less-group--greenBlack-01.08/less/i-ColorWidth.less",
+		"/D/Work/less-group--greenBlack-01.08/doctor-group/doctor-group-index.html",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/c-tab-group.html",
+		"/D/Work/less-group--greenBlack-01.08/信息展示页-c-info-group.html",
+		"/D/Work/less-group--greenBlack-01.08/js/demo_test.txt",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/tabHtml.html",
+		"/D/Work/less-group--greenBlack-01.08/img/app.jpg",
+		"/D/Work/less-group--greenBlack-01.08/img/bg-img-1.jpg",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/c-form-group.html",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/Emmet.sublime-settings",
+		"/D/Work Software/Sublime Text 3/Data/Packages/emmet-sublime-master/emmet/snippets.json",
+		"/D/Work Software/Sublime Text 3/Data/Packages/emmet-sublime-master/README.md"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ignore",
+			"python_interpreter",
+			"interpreter",
+			"sublimelinter",
+			"sublimelinter_executable_map",
+			"sublimelinter",
+			"null",
+			"&quot;",
+			"之江一号",
+			"绿园",
+			"锦兰紫兰",
+			"紫庭花园",
+			"蔚蓝公寓\n",
+			"FCFCFC",
+			"background",
+			".widget-box",
+			".widget-box_header",
+			"widget-box_header.",
+			"widget-box_header",
+			"keywords",
+			"js-phoneNum-group",
+			"indext",
+			"u-text-default",
+			"u-bt",
+			"tabs",
+			"src=\"img/",
+			"客户业务咨询表",
+			"table-responsive",
+			"img",
+			".media",
+			".u-b",
+			".u-bb",
+			".u-b-c",
+			"u-c",
+			"media",
+			"col-lg-12",
+			"avatar",
+			"头像",
+			"clearfix",
+			"list-group",
+			".table",
+			"width:80px;",
+			"outline: none",
+			"outline: none;",
+			"list-group",
+			"row",
+			"u-ht--",
+			"u-ht",
+			"ht",
+			"@l-aside-wh--md",
+			".u-p-trbl",
+			"u-bg--c",
+			"padding",
+			"border",
+			"ibox",
+			"js-l_change",
+			"showIfarme",
+			".c-icon-bg",
+			"@l-aside--wh",
+			"c-mainNav_child",
+			"width:50px;",
+			"fun_attr",
+			"p-iframe-ht--all",
+			"fun_attr",
+			"groupAdd",
+			"js-groupBtn--delAll",
+			"u-0-",
+			"u-bt--",
+			"u-bt--0",
+			"over",
+			"c-table",
+			"table",
+			"form-inline",
+			"u-b",
+			"u-br",
+			"c-form-inline",
+			"textarea",
+			"u-wh",
+			".c-box_header",
+			"data-id",
+			".p-btn--close",
+			"c-box_header_toolbar_item",
+			"checkbox-inline",
+			"l-aside",
+			"l-content_maincontent",
+			"l-aside_container",
+			"over",
+			"l-body_wrapper",
+			"l-aside_container",
+			"u-b",
+			"c-box_header--tabs",
+			"u-l",
+			"line-height",
+			"l-footer",
+			"u-p--10",
+			".u-bg--c",
+			"u-pos",
+			"u-r--0",
+			"activeId",
+			"breadcrumb",
+			".breadcrumb",
+			"F7F7F7",
+			"c-box_header",
+			"tabs",
+			"dropdown-menu",
+			"btn",
+			"button",
+			"btn",
+			"btn:b",
+			"btn",
+			"footer",
+			"c-mainNav_child",
+			".c-btn-icon",
+			"@c-mainNav-icon--caret--o",
+			"c-mainNav-icon--caret-right",
+			"@c-mainNav_li_a--o",
+			"@l-mainNav--bg-color",
+			"@c-mainNav_child_a--hover--c",
+			"@l-mainNav--bg-color",
+			"@c-mainNav_li_a-active--bg-c",
+			"558923",
+			"@c-mainNav_child_li_a--c",
+			".l-content-control",
+			"@l-content--bg-color",
+			"l-content-control",
+			".l-content-control",
+			"l-content-control",
+			"#82b651"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"../img/",
+			"客户干预随访",
+			"col-sm-12",
+			"width:70px;",
+			"width:65px;",
+			"width:80px;",
+			"btn-success"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "1.寻找自己的方式/猜数字游戏1.1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "item-python.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"l.css",
+				"css\\l.css"
+			],
+			[
+				"css",
+				"css\\l.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
