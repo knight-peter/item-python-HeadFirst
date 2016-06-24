@@ -15,18 +15,21 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_3_.coverage" NAME="冲浪比赛1.3-字典 Coverage Results" MODIFIED="1466496580044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$coffee_pos.coverage" NAME="coffee_pos Coverage Results" MODIFIED="1466761688974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
     <SUITE FILE_PATH="coverage/item-python-升入浅出程序设计$1_2.coverage" NAME="猜数字游戏1.2 Coverage Results" MODIFIED="1465281208598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.寻找自己的方式" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$Starbuzz1_0.coverage" NAME="Starbuzz咖啡馆1.0 Coverage Results" MODIFIED="1465803599091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.文本数据-每个字符串都有它自己的位置" />
     <SUITE FILE_PATH="coverage/item-python-升入浅出程序设计$.coverage" NAME="猜数字游戏 Coverage Results" MODIFIED="1465268722286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.寻找自己的方式" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$Starbuzz2_1_.coverage" NAME="Starbuzz咖啡馆2.1-调用函数 Coverage Results" MODIFIED="1466045907251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.函数-让我们变得井井有条" />
     <SUITE FILE_PATH="coverage/item-python-升入浅出程序设计$Starbuzz1_0.coverage" NAME="Starbuzz咖啡馆1.0 Coverage Results" MODIFIED="1465284994386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.文本数据-每个字符串都有它自己的位置" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$2_0_.coverage" NAME="冲浪比赛2.0-字典 Coverage Results" MODIFIED="1466563985514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
-    <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_0.coverage" NAME="冲浪比赛1.0 Coverage Results" MODIFIED="1466562187507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.文件和数组中的数据-排好序" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_0.coverage" NAME="健身俱乐部1.0 Coverage Results" MODIFIED="1466753325428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$Starbuzz2_0.coverage" NAME="Starbuzz咖啡馆2.0 Coverage Results" MODIFIED="1465961122507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.函数-让我们变得井井有条" />
-    <SUITE FILE_PATH="coverage/item-python-HeadFirst$2_1_.coverage" NAME="冲浪比赛2.1-复杂数据 Coverage Results" MODIFIED="1466588318429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$2_1_.coverage" NAME="冲浪比赛2.1-复杂数据 Coverage Results" MODIFIED="1466647521616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_2_.coverage" NAME="冲浪比赛1.2-排序 Coverage Results" MODIFIED="1466563576709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.文件和数组中的数据-排好序" />
     <SUITE FILE_PATH="coverage/item-python-升入浅出程序设计$1_1.coverage" NAME="猜数字游戏1.1 Coverage Results" MODIFIED="1465280839475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.寻找自己的方式" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_1_.coverage" NAME="冲浪比赛1.1-分割字符串 Coverage Results" MODIFIED="1466562194330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.文件和数组中的数据-排好序" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$discount.coverage" NAME="discount Coverage Results" MODIFIED="1466760762728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$gym_pos.coverage" NAME="gym_pos Coverage Results" MODIFIED="1466761766846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -37,61 +40,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="冲浪比赛1.0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.0.py">
+      <file leaf-file-name="健身俱乐部1.0.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/健身俱乐部1.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="338">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="34" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="冲浪比赛1.1-分割字符串.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.1-分割字符串.py">
+      <file leaf-file-name="transactions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/transactions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="80">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="冲浪比赛1.2-排序.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.2-排序.py">
+      <file leaf-file-name="coffee_pos.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/coffee_pos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="520">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+              <folding>
+                <element signature="e#70#96#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="冲浪比赛2.0-字典.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.0-字典.py">
+      <file leaf-file-name="gym_pos.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/gym_pos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="478">
+              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+              <folding>
+                <element signature="e#70#96#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="冲浪比赛2.1-复杂数据.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.1-复杂数据.py">
+      <file leaf-file-name="discount.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/discount.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="surfing_data.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.字典和数据库-让数据各归其位/surfing_data.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -130,6 +127,13 @@
         <option value="$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.2-排序.py" />
         <option value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位/surfing_data.txt" />
         <option value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.1-复杂数据.py" />
+        <option value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/transactions.txt" />
+        <option value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.2-连接服务器.py" />
+        <option value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/健身俱乐部1.0.py" />
+        <option value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/transactions.py" />
+        <option value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/discount.py" />
+        <option value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/coffee_pos.py" />
+        <option value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/gym_pos.py" />
       </list>
     </option>
   </component>
@@ -186,6 +190,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="item-python-HeadFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item-python-HeadFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item-python-HeadFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6.模块化编程-让事情保持简单" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -283,43 +301,7 @@
       <recent name="D:\learn\item-python-升入浅出程序设计\2.文本数据-每个字符串都有它自己的位置" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.冲浪比赛2.1-复杂数据">
-    <configuration default="false" name="冲浪比赛1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.文件和数组中的数据-排好序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="item-python-升入浅出程序设计" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="冲浪比赛1.1-分割字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.文件和数组中的数据-排好序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="item-python-升入浅出程序设计" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.1-分割字符串.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.gym_pos">
     <configuration default="false" name="冲浪比赛2.1-复杂数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,38 +320,74 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="冲浪比赛2.0-字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="健身俱乐部1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="item-python-升入浅出程序设计" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.0-字典.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/健身俱乐部1.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="冲浪比赛1.2-排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="coffee_pos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.文件和数组中的数据-排好序" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="item-python-升入浅出程序设计" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.2-排序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/coffee_pos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gym_pos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="item-python-升入浅出程序设计" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/gym_pos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="discount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="item-python-升入浅出程序设计" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/discount.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -583,19 +601,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.冲浪比赛1.0" />
-      <item index="1" class="java.lang.String" itemvalue="Python.冲浪比赛1.1-分割字符串" />
-      <item index="2" class="java.lang.String" itemvalue="Python.冲浪比赛2.1-复杂数据" />
-      <item index="3" class="java.lang.String" itemvalue="Python.冲浪比赛2.0-字典" />
-      <item index="4" class="java.lang.String" itemvalue="Python.冲浪比赛1.2-排序" />
+      <item index="0" class="java.lang.String" itemvalue="Python.冲浪比赛2.1-复杂数据" />
+      <item index="1" class="java.lang.String" itemvalue="Python.健身俱乐部1.0" />
+      <item index="2" class="java.lang.String" itemvalue="Python.coffee_pos" />
+      <item index="3" class="java.lang.String" itemvalue="Python.gym_pos" />
+      <item index="4" class="java.lang.String" itemvalue="Python.discount" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.冲浪比赛2.1-复杂数据" />
-        <item index="1" class="java.lang.String" itemvalue="Python.冲浪比赛2.0-字典" />
-        <item index="2" class="java.lang.String" itemvalue="Python.冲浪比赛1.2-排序" />
-        <item index="3" class="java.lang.String" itemvalue="Python.冲浪比赛1.1-分割字符串" />
-        <item index="4" class="java.lang.String" itemvalue="Python.冲浪比赛1.0" />
+        <item index="0" class="java.lang.String" itemvalue="Python.gym_pos" />
+        <item index="1" class="java.lang.String" itemvalue="Python.coffee_pos" />
+        <item index="2" class="java.lang.String" itemvalue="Python.discount" />
+        <item index="3" class="java.lang.String" itemvalue="Python.健身俱乐部1.0" />
+        <item index="4" class="java.lang.String" itemvalue="Python.冲浪比赛2.1-复杂数据" />
       </list>
     </recent_temporary>
   </component>
@@ -621,7 +639,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -657,16 +675,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.函数-让我们变得井井有条/Starbuzz咖啡馆2.2-发送到手机.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.函数-让我们变得井井有条/Starbuzz咖啡馆2.2-发送到手机.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -944,22 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.2-排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.0-字典.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5.字典和数据库-让数据各归其位/surfing_data-1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -984,11 +976,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.0-字典.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.文件和数组中的数据-排好序/冲浪比赛1.2-排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.1-复杂数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="196">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.2-连接服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <marker date="1466650480969" expanded="true" signature="550:571" ph="select * fro... surfers" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/健身俱乐部1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="34" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/transactions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/coffee_pos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <element signature="e#70#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/discount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.模块化编程-让事情保持简单/gym_pos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="e#70#96#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
