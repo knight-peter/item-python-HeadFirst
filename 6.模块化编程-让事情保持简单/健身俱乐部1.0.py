@@ -31,7 +31,7 @@ Python在字符串中没发现一个%，它就知道要插入一个值。
 
 def save_transaction(price,credit_card,description):
     file=open("transactions.txt","a")# 这儿的“a”意味着你总是把记录添加在文件的尾部
-    file.write("%16s%07d%s\n"%(credit_card,price*100,description))
+    file.write("%16s%07d%s\n"%(credit_card,price*100,description))# 字符串格式说明——%s 数字格式说明——%5d
     file.close()
 
 # 这是包含菜单选项的数组

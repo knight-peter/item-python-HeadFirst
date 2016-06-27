@@ -35,5 +35,5 @@ if surfer:
     print("出生地：:        "+surfer['country'])
     print("成绩:            "+surfer['average'])
     print("参赛船型:        "+surfer['board'])
-    print("年龄:            "+surfer['name'])
+    print("年龄:            "+surfer['age'])
 

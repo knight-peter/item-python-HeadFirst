@@ -1,13 +1,16 @@
 # 这一行需要被加到任何使用“transactions.py”模块的程序中，“*”意味着“就像对待在你的程序中的代码那样对待模块中的代码”
-from transactions import *
+from transactions import *# 添加记录模块
+# 价格打折模块
 import discount #去掉“from”和“*”后，需要使用模块名来限定函数名，例：discount.discount
 
 # 这是包含菜单选项的数组
 items=["甜甜圈","拿铁","松饼","美式咖啡","烤肠"]
 # 这是菜单价格的对应数组
 prices=[3.50,3.30,1.50,4.20,2.20]
-running=True
 
+
+
+running=True
 while running:# 这个循环会一直惊喜，制药变量“running”的值为True。如果要结束循环，需要把“running”设为False
     option=1
     for choice in items:

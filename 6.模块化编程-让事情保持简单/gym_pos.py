@@ -1,13 +1,15 @@
 # 这一行需要被加到任何使用“transactions.py”模块的程序中，“*”意味着“就像对待在你的程序中的代码那样对待模块中的代码”
-from transactions import *
-from discount import*
+from transactions import *# 添加记录模块
+from discount import*# 价格打折模块
 
 # 这是包含菜单选项的数组
 items=["健身操","卧推","骑行","跑步","游泳"]
 # 这是菜单价格的对应数组
 prices=[13.00,5.00,10.00,25.00,200.00]
-running=True
 
+
+
+running=True
 while running:# 这个循环会一直惊喜，制药变量“running”的值为True。如果要结束循环，需要把“running”设为False
     option=1
     for choice in items:

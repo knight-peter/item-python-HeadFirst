@@ -25,7 +25,7 @@ def find_details(id2find):
     cursor.execute("select * from surfers")
     rows=cursor.fetchall()
     for row in rows:
-        if row['id']==id2find
+        if row['id']==id2find:
             s={}
             # 一次创建哈希的一个一值对
             s['id']=str(row['id'])
