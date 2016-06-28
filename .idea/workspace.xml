@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music1.0.py" line="21" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="641718be-aea5-4701-a1dd-ac2949a062f2" name="Default" comment="" />
     <ignored path="item-python-升入浅出程序设计.iws" />
@@ -17,15 +20,19 @@
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$pygame_music.coverage" NAME="pygame-music Coverage Results" MODIFIED="1467018242279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_3_.coverage" NAME="冲浪比赛1.3-字典 Coverage Results" MODIFIED="1466496580044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$2_2_.coverage" NAME="冲浪比赛2.2-连接服务器 Coverage Results" MODIFIED="1467002056808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_1__gui.coverage" NAME="主持人1.1--gui Coverage Results" MODIFIED="1467097357560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$coffee_pos.coverage" NAME="coffee_pos Coverage Results" MODIFIED="1466761688974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
     <SUITE FILE_PATH="coverage/item-python-升入浅出程序设计$1_2.coverage" NAME="猜数字游戏1.2 Coverage Results" MODIFIED="1465281208598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.寻找自己的方式" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$Starbuzz1_0.coverage" NAME="Starbuzz咖啡馆1.0 Coverage Results" MODIFIED="1465803599091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.文本数据-每个字符串都有它自己的位置" />
     <SUITE FILE_PATH="coverage/item-python-升入浅出程序设计$.coverage" NAME="猜数字游戏 Coverage Results" MODIFIED="1465268722286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.寻找自己的方式" />
-    <SUITE FILE_PATH="coverage/item-python-HeadFirst$pygame_music1_0.coverage" NAME="pygame-music1.0 Coverage Results" MODIFIED="1467021521598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$pygame_music1_0.coverage" NAME="pygame-music1.0 Coverage Results" MODIFIED="1467095520880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$Starbuzz2_1_.coverage" NAME="Starbuzz咖啡馆2.1-调用函数 Coverage Results" MODIFIED="1466045907251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.函数-让我们变得井井有条" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_3__gui.coverage" NAME="主持人1.3--gui Coverage Results" MODIFIED="1467106920890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
     <SUITE FILE_PATH="coverage/item-python-升入浅出程序设计$Starbuzz1_0.coverage" NAME="Starbuzz咖啡馆1.0 Coverage Results" MODIFIED="1465284994386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.文本数据-每个字符串都有它自己的位置" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$2_0_.coverage" NAME="冲浪比赛2.0-字典 Coverage Results" MODIFIED="1467001996073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
-    <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_0.coverage" NAME="健身俱乐部1.0 Coverage Results" MODIFIED="1466753325428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.模块化编程-让事情保持简单" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_2__gui.coverage" NAME="主持人1.2--gui Coverage Results" MODIFIED="1467105467666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$pygame_music0_1__1_.coverage" NAME="pygame-music0.1 (1) Coverage Results" MODIFIED="1467077586661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
+    <SUITE FILE_PATH="coverage/item-python-HeadFirst$1_0.coverage" NAME="主持人1.0 Coverage Results" MODIFIED="1467095530855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$Starbuzz2_0.coverage" NAME="Starbuzz咖啡馆2.0 Coverage Results" MODIFIED="1465961122507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.函数-让我们变得井井有条" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$pygame_music0_1.coverage" NAME="pygame-music0.1 Coverage Results" MODIFIED="1467022494482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/item-python-HeadFirst$2_1_.coverage" NAME="冲浪比赛2.1-复杂数据 Coverage Results" MODIFIED="1467002181397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
@@ -44,22 +51,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pygame-music1.0.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pygame-music1.0.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music1.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="420">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pygame-music0.1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygame-music0.1.py">
+      <file leaf-file-name="主持人1.0.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="244">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="主持人1.1--gui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.1--gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="主持人1.2--gui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.2--gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#70#91#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="主持人1.3--gui.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.3--gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+              <folding>
+                <element signature="e#272#293#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,9 +146,14 @@
         <option value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/coffee_pos.py" />
         <option value="$PROJECT_DIR$/6.模块化编程-让事情保持简单/gym_pos.py" />
         <option value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music.py" />
-        <option value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music1.0.py" />
         <option value="$PROJECT_DIR$/pygame-music1.0.py" />
         <option value="$PROJECT_DIR$/pygame-music0.1.py" />
+        <option value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music0.1.py" />
+        <option value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.0.py" />
+        <option value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music1.0.py" />
+        <option value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.1--gui.py" />
+        <option value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.2--gui.py" />
+        <option value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.3--gui.py" />
       </list>
     </option>
   </component>
@@ -118,9 +164,29 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="627" />
-    <option name="width" value="1293" />
-    <option name="height" value="1050" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -164,6 +230,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="item-python-HeadFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item-python-HeadFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item-python-HeadFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7.搭建图形用户界面-完全图形化" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,7 +337,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -268,68 +348,14 @@
       <recent name="D:\learn\item-python-升入浅出程序设计\2.文本数据-每个字符串都有它自己的位置" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learn\item-python-HeadFirst\7.搭建图形用户界面-完全图形化" />
       <recent name="D:\learn\item-python-HeadFirst" />
       <recent name="D:\learn\item-python-HeadFirst\5.字典和数据库-让数据各归其位" />
       <recent name="D:\learn\item-python-HeadFirst\4.文件和数组中的数据-排好序" />
       <recent name="D:\learn\item-python-HeadFirst\3.函数-让我们变得井井有条" />
-      <recent name="D:\learn\item-python-HeadFirst\2.文本数据-每个字符串都有它自己的位置" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pygame-music0.1">
-    <configuration default="false" name="冲浪比赛2.2-连接服务器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="item-python-升入浅出程序设计" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.2-连接服务器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="冲浪比赛2.1-复杂数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="item-python-升入浅出程序设计" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.字典和数据库-让数据各归其位/冲浪比赛2.1-复杂数据.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pygame-music" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="item-python-升入浅出程序设计" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\learn\item-python-HeadFirst\7.搭建图形用户界面-完全图形化\pygame-music1.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.主持人1.3--gui">
     <configuration default="false" name="pygame-music1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +374,74 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="pygame-music0.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="主持人1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="item-python-升入浅出程序设计" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame-music0.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="主持人1.1--gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="item-python-升入浅出程序设计" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.1--gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="主持人1.2--gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="item-python-升入浅出程序设计" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.2--gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="主持人1.3--gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="item-python-升入浅出程序设计" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.3--gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -575,19 +655,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.冲浪比赛2.2-连接服务器" />
-      <item index="1" class="java.lang.String" itemvalue="Python.冲浪比赛2.1-复杂数据" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pygame-music" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pygame-music1.0" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pygame-music0.1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pygame-music1.0" />
+      <item index="1" class="java.lang.String" itemvalue="Python.主持人1.0" />
+      <item index="2" class="java.lang.String" itemvalue="Python.主持人1.1--gui" />
+      <item index="3" class="java.lang.String" itemvalue="Python.主持人1.2--gui" />
+      <item index="4" class="java.lang.String" itemvalue="Python.主持人1.3--gui" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pygame-music0.1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pygame-music1.0" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pygame-music" />
-        <item index="3" class="java.lang.String" itemvalue="Python.冲浪比赛2.1-复杂数据" />
-        <item index="4" class="java.lang.String" itemvalue="Python.冲浪比赛2.2-连接服务器" />
+        <item index="0" class="java.lang.String" itemvalue="Python.主持人1.3--gui" />
+        <item index="1" class="java.lang.String" itemvalue="Python.主持人1.2--gui" />
+        <item index="2" class="java.lang.String" itemvalue="Python.主持人1.1--gui" />
+        <item index="3" class="java.lang.String" itemvalue="Python.主持人1.0" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pygame-music1.0" />
       </list>
     </recent_temporary>
   </component>
@@ -608,18 +688,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="627" y="0" width="1293" height="1050" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15035239" sideWeight="0.4946401" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1" sideWeight="0.4946401" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32392895" sideWeight="0.41979167" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32306057" sideWeight="0.58020836" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31765935" sideWeight="0.58020836" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1" sideWeight="0.5053599" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -644,46 +725,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.文本数据-每个字符串都有它自己的位置/Starbuzz咖啡馆1.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.文本数据-每个字符串都有它自己的位置/Starbuzz咖啡馆1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.文本数据-每个字符串都有它自己的位置/Starbuzz咖啡馆1.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.文本数据-每个字符串都有它自己的位置/Starbuzz咖啡馆1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.寻找自己的方式/猜数字游戏.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.寻找自己的方式/猜数字游戏1.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -979,9 +1025,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="e#70#104#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1017,11 +1061,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music1.0.py">
+    <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music0.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/pygame-music1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.1--gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.2--gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#70#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.搭建图形用户界面-完全图形化/主持人1.3--gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <element signature="e#272#293#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
